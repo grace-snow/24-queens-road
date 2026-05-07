@@ -1,17 +1,13 @@
 # HM Land Registry for 24 Queens Road, Hoylake 
 
 Title number MS254800 Edition date 10.10.2022
-– This official copy shows the entries on the register of title on
-12 FEB 2026 at 16:54:11.
-– This date must be quoted as the "search from date" in any
-official search application based on this copy.
-– The date at the beginning of an entry is the date on which
-the entry was made in the register.
+
+– This official copy shows the entries on the register of title on 12 FEB 2026 at 16:54:11.
+– This date must be quoted as the "search from date" in any official search application based on this copy.
+– The date at the beginning of an entry is the date on which the entry was made in the register.
 – Issued on 12 Feb 2026.
-– Under s.67 of the Land Registration Act 2002, this copy is
-admissible in evidence to the same extent as the original.
-– This title is dealt with by HM Land Registry, Birkenhead
-Office.
+– Under s.67 of the Land Registration Act 2002, this copy is admissible in evidence to the same extent as the original.
+– This title is dealt with by HM Land Registry, Birkenhead Office.
 
 ## A: Property Register
 This register describes the land and estate comprised in the title. Except as mentioned below, the title includes any legal easements granted by the registered lease but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land. 
